@@ -12,7 +12,7 @@ A full-featured blog management system built with CodeIgniter 4, Bootstrap 5, an
 ## Setup
 1. Clone repo
 2. Run `composer install`
-3. Create `.env` and configure DB
+3. configure DB
 4. Run migrations & seeders (if any)
 5. Start server: `php spark serve`
 
