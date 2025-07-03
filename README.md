@@ -9,7 +9,7 @@ A full-featured blog management system built with CodeIgniter 4, Bootstrap 5, an
 - Responsive layout with Bootstrap
 - Post filtering by author
 
-## Setup
+### Setup
 1. Clone repo
 2. Run `composer install`
 3. configure DB
